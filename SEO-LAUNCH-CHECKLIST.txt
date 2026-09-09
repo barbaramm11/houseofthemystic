@@ -1,0 +1,26 @@
+HOUSE OF THE MYSTIC — SEO LAUNCH CHECKLIST
+Domain: https://houseofthemystic.com
+
+Added:
+- Animal Reiki Austin landing page
+- Reiki Austin landing page
+- About Barbara practitioner page
+- Resources hub + first Animal Reiki educational article
+- Unique titles/meta descriptions/canonical tags
+- Open Graph metadata
+- Organization + Service structured data
+- sitemap.xml + robots.txt
+- Internal linking and natural Austin/Texas relevance
+
+Before publishing:
+1. Replace all YOUR_STRIPE_* and YOUR_CALENDLY_LINK placeholders.
+2. Add only completed credentials to /about-barbara/.
+3. Deploy to Netlify and connect houseofthemystic.com.
+4. Configure Netlify Forms notifications to houseofthemystic7@gmail.com.
+5. Verify houseofthemystic.com in Google Search Console.
+6. Submit https://houseofthemystic.com/sitemap.xml.
+7. Request indexing for the homepage, Animal Reiki, Reiki, About, and first resource article.
+8. Add real testimonials as you collect them.
+9. Continue publishing useful first-person practitioner content.
+
+Important: Only create a Google Business Profile if you meet Google's in-person eligibility rules (storefront or you actually visit clients). Do not use a residential/virtual address just for SEO.
